@@ -1,0 +1,73 @@
+ {
+    "status": "ok",
+    "totalResults": 4,
+    "articles" :  [
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Jon Kelvey",
+      "title": "Scientists use galaxy as a telescope – and see the beginnings of the universe",
+      "description": "Using gravitational lensing and new technologies, astronomers were able to study the nurseries that birthed some of the first galaxies",
+      "url": "http://www.independent.co.uk/space/galactic-nurseries-cosmic-telescope-b2081913.html",
+      "urlToImage": "https://static.independent.co.uk/2022/05/18/16/iStock-177247796.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-05-18T15:04:26Z",
+      "content": "Cutting edge instruments and perfect cosmic alignments have allowed astronomers to peer into the nursery rooms of some of the oldest galaxies in the universe.\r\nA new paper published Thursday in the j… [+3542 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Hisense launches its first-ever Fire TV for $529",
+      "description": "Hisense has released a 50-inch 4K Fire TV for $529 that comes with the brand’s proprietary ULED technology that promotes brightness, color, and contrast.",
+      "url": "https://www.theverge.com/2022/5/18/23122566/hisense-goes-against-google-makes-4k-fire-tv-amazon",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Dmmncjj_x1yDAO2O0x2K8_vvHF8=/0x23:1400x756/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23521378/hisense_fire_tv.png",
+      "publishedAt": "2022-05-18T14:56:25Z",
+      "content": "It comes with a 50-inch 4K display\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nImage: Hisense\r\nHisenses new 4K Fire TV (50U6HF) costs $529 and… [+1634 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "Lisa O'Carroll",
+      "title": "UK must accept border on Irish Sea is inevitable, says ex-WTO chief",
+      "description": "Pascal Lamy says row is solvable if PM stops using emotional Brexit politics to solve ‘technical problem’",
+      "url": "https://amp.theguardian.com/politics/2022/may/18/uk-has-to-accept-border-irish-sea-inevitable-ex-wto-chief-pascal-lamy-brexit-boris-johnson",
+      "urlToImage": "https://i.guim.co.uk/img/media/4defba2a1f5f91d1f3241b410b58ab8889eb04b3/0_172_5152_3091/master/5152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c951fe689f0ebfac7a2564119280c709",
+      "publishedAt": "2022-05-18T14:49:00+00:00",
+      "content": "Boris Johnsons row with the EU over Northern Irelands Brexit arrangements is absolutely solvable but only if the UK accepts that a border is inevitable, the former head of the World Trade Organizatio… [+4048 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MARYCLAIRE DALE",
+      "title": "With Roe in doubt, some fear tech surveillance of pregnancy",
+      "description": "PHILADELPHIA (AP) — When Chandler Jones realized she was pregnant during her junior year of college, she turned to a trusted source for information and advice.Her cellphone.“I couldn’t imagine before the internet, trying to navigate this,” said Jones, 26, who…",
+      "url": "https://apnews.com/e9ee1642747b91a49069cf2110857cef",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a3a8e47527464b2bbb7ba6b01cff3ab8/3000.jpeg",
+      "publishedAt": "2022-05-18T14:03:25Z",
+      "content": "PHILADELPHIA (AP) — When Chandler Jones realized she was pregnant during her junior year of college, she turned to a trusted source for information and advice.Her cellphone.“I couldn’t imagine before… [+8866 chars]"
+    },
+    {
+      "source": {
+        "id": "wirtschafts-woche",
+        "name": "Wirtschafts Woche"
+      },
+      "author": "Judith Henke",
+      "title": "Fotovoltaik: Was SMA Solar gegen die roten Zahlen tut",
+      "description": "Der weltweite Spezialist für Fotovoltaik-Systemtechnik müsste vom Ausbau der erneuerbaren Energien profitieren. Doch die Firma schreibt rote Zahlen. Warum – und wie lange noch?",
+      "url": "https://www.wiwo.de/unternehmen/energie/sma-solar-ein-sonnen-star-mit-problemen-wie-sma-solar-gegensteuert/28339478.html",
+      "urlToImage": "https://www.wiwo.de/images/sma-solar-bilanz-2015/28339550/3-format11240.jpg",
+      "publishedAt": "2022-05-18T14:03:02+00:00",
+      "content": "In das Werbevideo von SMA Solar ist zweifelsfrei einiges an Zeit und Geld geflossen. Eine Kameradrohne fliegt auf eine futuristisch anmutende Halle voller Elektroautos zu, das Dach ist von Gras und S… [+8510 chars]"
+    }
+    
+  ]
+
+}
