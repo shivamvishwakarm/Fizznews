@@ -13,28 +13,28 @@ import { Link } from "react-router-dom";
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+                <Link className="nav-link active" aria-current="page" to="/Fizz_news_app/">Home</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/business">Business</Link>
+                <Link className="nav-link" to="Fizz_news_app/business">Business</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/entertainment">Entertainment</Link>
+                <Link className="nav-link" to="/Fizz_news_app/entertainment">Entertainment</Link>
               </li>
               {/* <li className="nav-item">
                 <Link className="nav-link" to="/general">General</Link>
                </li> */}
               <li className="nav-item">
-                <Link className="nav-link" to="/health">Health</Link>
+                <Link className="nav-link" to="/Fizz_news_app/health">Health</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/science">Science</Link>
+                <Link className="nav-link" to="/Fizz_news_app/science">Science</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/sports">Sports</Link>
+                <Link className="nav-link" to="/Fizz_news_app/sports">Sports</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/technology">Technology</Link>
+                <Link className="nav-link" to="/Fizz_news_app/technology">Technology</Link>
               </li>
             </ul>
           </div>
