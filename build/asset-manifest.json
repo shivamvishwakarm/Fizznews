@@ -1,11 +1,12 @@
 {
-  "main.js": "/Fizz_news_app/static/js/main.9f3d652f.chunk.js",
-  "main.js.map": "/Fizz_news_app/static/js/main.9f3d652f.chunk.js.map",
-  "runtime~main.js": "/Fizz_news_app/static/js/runtime~main.7b0aaa6d.js",
-  "runtime~main.js.map": "/Fizz_news_app/static/js/runtime~main.7b0aaa6d.js.map",
-  "static/js/2.928769e2.chunk.js": "/Fizz_news_app/static/js/2.928769e2.chunk.js",
-  "static/js/2.928769e2.chunk.js.map": "/Fizz_news_app/static/js/2.928769e2.chunk.js.map",
-  "index.html": "/Fizz_news_app/index.html",
-  "precache-manifest.355f0942f7b369c821cb0cbc25bb0705.js": "/Fizz_news_app/precache-manifest.355f0942f7b369c821cb0cbc25bb0705.js",
-  "service-worker.js": "/Fizz_news_app/service-worker.js"
+  "main.js": "/static/js/main.7f5b20df.chunk.js",
+  "main.js.map": "/static/js/main.7f5b20df.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.928769e2.chunk.js": "/static/js/2.928769e2.chunk.js",
+  "static/js/2.928769e2.chunk.js.map": "/static/js/2.928769e2.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.cdec74b8f03bc0d668c056cb6b4e1baf.js": "/precache-manifest.cdec74b8f03bc0d668c056cb6b4e1baf.js",
+  "service-worker.js": "/service-worker.js",
+  "static/media/FizzNews.png": "/static/media/FizzNews.ea6226c2.png"
 }

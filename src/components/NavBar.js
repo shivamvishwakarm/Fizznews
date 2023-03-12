@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/Fizz_news_app/">Home</Link>
+                <Link className="nav-link active" aria-current="page" to="/">Home</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="Fizz_news_app/business">Business</Link>
@@ -21,9 +21,6 @@ import { Link } from "react-router-dom";
               <li className="nav-item">
                 <Link className="nav-link" to="/Fizz_news_app/entertainment">Entertainment</Link>
               </li>
-              {/* <li className="nav-item">
-                <Link className="nav-link" to="/general">General</Link>
-               </li> */}
               <li className="nav-item">
                 <Link className="nav-link" to="/Fizz_news_app/health">Health</Link>
               </li>

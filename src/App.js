@@ -17,8 +17,10 @@ import LoadingBar from 'react-top-loading-bar'
 
     return (
       <div>
-        <BrowserRouter>
-          <NavBar />
+        <BrowserRouter>  
+        {/* Navbar component */}
+          <NavBar /> 
+          {/* Navbar LoadingBar */}
           <LoadingBar
         height={3}
         color='#f11946'
@@ -26,12 +28,25 @@ import LoadingBar from 'react-top-loading-bar'
       />
           <Routes >
 
-            <Route exact path="/Fizz_news_app" element={<News setProgress= {setProgress} apiKey={apiKey} key={"general"} pageSize={pageNo} country="in" category="general" />}></Route>
+           {/* For general */}
+            <Route exact path="/" element={<News setProgress= {setProgress} apiKey={apiKey} key={"general"} pageSize={pageNo} country="in" category="general" />}></Route>
+
+            {/* For business */}
             <Route exact path="/Fizz_news_app/business" element={<News setProgress= {setProgress} apiKey={apiKey} key={"business"} pageSize={pageNo} country="in" category="business" />}></Route>
+
+            {/* For entertainment */}
             <Route exact path="/Fizz_news_app/entertainment" element={<News setProgress= {setProgress} apiKey={apiKey} key={"entertainment"} pageSize={pageNo} country="in" category="entertainment" />}></Route>
+
+            {/* For science */}
             <Route exact path="/Fizz_news_app/science" element={<News setProgress= {setProgress} apiKey={apiKey} key={"science"} pageSize={pageNo} country="in" category="science" />}></Route>
+
+            {/* For sports*/}
             <Route exact path="/Fizz_news_app/sports" element={<News setProgress= {setProgress} apiKey={apiKey} key={"sports"} pageSize={pageNo} country="in" category="sports" />}></Route>
+
+            {/* For technology */}
             <Route exact path="/Fizz_news_app/technology" element={<News setProgress= {setProgress} apiKey={apiKey} key={"technology"} pageSize={pageNo} country="in" category="technology" />}></Route>
+
+            {/* For health */}
             <Route exact path="/Fizz_news_app/health" element={<News setProgress= {setProgress} apiKey={apiKey} key={"health"} pageSize={pageNo} country="in" category="health" />}></Route>
 
           </Routes>
